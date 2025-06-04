@@ -1,4 +1,4 @@
-![Adobe Express - file](https://github.com/user-attachments/assets/c62d5dd0-1d6e-46d3-8a1d-5d40c54bfd08)
+<img src="https://github.com/tarleak613/tarleak613/blob/main/Adobe%20Express%20-%20file.png?raw=true" width="150"/>
 
 
 <p align="center">
