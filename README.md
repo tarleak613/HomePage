@@ -1,4 +1,4 @@
-<img src="https://github.com/tarleak613/tarleak613/blob/main/Adobe%20Express%20-%20file.png?raw=true" width="300"/>
+<img src="https://github.com/tarleak613/tarleak613/blob/main/Adobe%20Express%20-%20file.png?raw=true" width="500"/>
 
 
 <p align="center">
