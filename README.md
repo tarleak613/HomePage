@@ -1,4 +1,5 @@
-<h1 align="center">Hi, I'm Ayush 👋</h1>
+![scott-pilgrim-vs-the-world-the-game-ramona-flowers-wallace-wells-youtube-png-favpng-MfB2L1zpbNg6C5CAZLZQ87Zug](https://github.com/user-attachments/assets/8b21e94e-2a16-4365-a55e-c085f3821e21)
+
 
 <p align="center">
   <em>Passionate CSE undergrad | Full-Stack Developer | Indie Music Enthusiast | Problem Solver</em>
